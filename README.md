@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Agrima Sharma! 👋
 
-<!--
-**agrimasharma00-code/agrimasharma00-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Tech CSE (AI & ML) Student
+- 💻 Open Source Contributor at GSSoC '26
+- 🔥 Enthusiastic about learning and growing every day
+- 🌍 Passionate about building real-life projects 
+- 🌱 Always exploring new technologies in AI and ML
 
-Here are some ideas to get you started:
+## 🎯 Goals
+- Build strong ML and AI skills
+- Contribute to open source projects
+- Build real-life impactful projects
+- Industry Based Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python,Java
+- Machine Learning
+- Deep Learning
+- Pandas, NumPy, Scikit-learn
+- Matplotlib, Seaborn
+
+## 📫 Contact Me
+- 📧 Email: agrimasharma00@gmail.com
+- 💼 LinkedIn:linkedin.com/in/agrimasharma7
