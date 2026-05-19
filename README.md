@@ -22,4 +22,4 @@
 
 ## 📫 Contact Me
 - 📧 Email: agrimasharma00@gmail.com
-- 💼 LinkedIn:linkedin.com/in/agrimasharma7
+- 💼 LinkedIn: linkedin.com/in/agrimasharma7
