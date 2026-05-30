@@ -14,7 +14,7 @@
 - Industry Based Learning
 
 ## 🛠️ Skills
-- Python,Java
+- Python,Java, PostreSQL
 - Machine Learning
 - Deep Learning
 - Pandas, NumPy, Scikit-learn
